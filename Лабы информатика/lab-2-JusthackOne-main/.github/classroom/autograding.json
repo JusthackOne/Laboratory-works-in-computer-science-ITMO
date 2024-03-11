@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Lab-2-test",
+      "setup": "",
+      "run": "./tests",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}

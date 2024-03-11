@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Lab-1-test",
+      "setup": "",
+      "run": "sudo python tester.pyc",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
